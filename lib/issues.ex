@@ -6,10 +6,6 @@ defmodule Issues do
   @doc """
   Hello world.
 
-  ## Examples
-
-      iex> Issues.hello()
-      :world
 
   """
   def hello do
